@@ -1,4 +1,6 @@
-[![oalsings's GitHub stats](https://github-readme-stats-flax-pi-60.vercel.app/api?username=oalsing)](https://github.com/anuraghazra/github-readme-stats)
+## Hi, I'm @oalsing 👋
+
+[![oalsings's GitHub stats](https://github-readme-stats-flax-pi-60.vercel.app/api?username=oalsing&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oalsing/oalsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
